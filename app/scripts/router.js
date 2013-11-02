@@ -1,0 +1,3 @@
+SharingEmber.Router.map(function () {
+  
+});
